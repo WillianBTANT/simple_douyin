@@ -1,0 +1,8 @@
+{
+  "database_url": "root:dir99@tcp(127.0.0.1:3306)/simple_douyin?charset=utf8mb4\u0026parseTime=True\u0026loc=Local",
+  "server_port": 8080,
+  "server_host": "0.0.0.0",
+  "jwt_secret": "Cd18jPdmI6aUWEkmvZomzltcjhetm9MMn64HDEwFBYDpMlks2fZpZ0nGvWp0G9TuMcQeySuGi_P7jwQA3gh7zQ",
+  "jwt_exp": 86400,
+  "static_base_url": "http://192.168.115.89:8080/static/"
+}
